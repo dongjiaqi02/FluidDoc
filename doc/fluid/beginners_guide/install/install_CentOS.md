@@ -1,5 +1,5 @@
 # **CentOS下安装**
-
+#change for blog
 ## 环境准备
 
 * *CentOS 版本 (64 bit)*
